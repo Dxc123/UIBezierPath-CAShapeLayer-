@@ -12,6 +12,7 @@
 		C01376B2201F25A1000ADFF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01376B0201F25A1000ADFF4 /* Main.storyboard */; };
 		C01376B4201F25A2000ADFF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01376B3201F25A2000ADFF4 /* Assets.xcassets */; };
 		C01376B7201F25A2000ADFF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01376B5201F25A2000ADFF4 /* LaunchScreen.storyboard */; };
+		C01376BF201F4132000ADFF4 /* 角度使使用弧度制来表示.png in Resources */ = {isa = PBXBuildFile; fileRef = C01376BE201F4132000ADFF4 /* 角度使使用弧度制来表示.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C01376B3201F25A2000ADFF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C01376B6201F25A2000ADFF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C01376B8201F25A2000ADFF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C01376BE201F4132000ADFF4 /* 角度使使用弧度制来表示.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "角度使使用弧度制来表示.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		C01376AB201F25A1000ADFF4 /* UIBezierPath和CAShapeLayer画各种图形 */ = {
 			isa = PBXGroup;
 			children = (
+				C01376BE201F4132000ADFF4 /* 角度使使用弧度制来表示.png */,
 				C01376AC201F25A1000ADFF4 /* AppDelegate.swift */,
 				C01376AE201F25A1000ADFF4 /* ViewController.swift */,
 				C01376B0201F25A1000ADFF4 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				C01376B7201F25A2000ADFF4 /* LaunchScreen.storyboard in Resources */,
 				C01376B4201F25A2000ADFF4 /* Assets.xcassets in Resources */,
+				C01376BF201F4132000ADFF4 /* 角度使使用弧度制来表示.png in Resources */,
 				C01376B2201F25A1000ADFF4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
